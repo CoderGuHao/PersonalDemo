@@ -7,5 +7,8 @@ README
 ****
 ## 目录
 * RecyclerViewDemo
+
+        一个美观的聊天界面，可以输入和发送消息，使用了RecyclerView
+* FragmentDemo
         
-        使用RecyclerView用于显示聊天的消息内容，聊天界面美观，并且可以输入和发送消息
+        一个简易版的新闻应用，使用了碎片和RecyclerView
